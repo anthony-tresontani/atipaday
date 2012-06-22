@@ -5,6 +5,16 @@ Here is my tips list to make my life as a developer easier.
 Every day, I should learn a new tip.
 My subjects will likely be: python, django, git, vim, IDE, linux.
 
+Day 2
+-----
+Tags: vi
+Stuck while trying to edit a file in vi without having the permission.
+
+Just do:
+
+:w !sudo tee %
+
+and that's saved
 
 Day 1
 -----
