@@ -5,6 +5,34 @@ Here is my tips list to make my life as a developer easier.
 Every day, I should learn a new tip.
 My subjects will likely be: python, django, git, vim, IDE, linux.
 
+Day 4
+-----
+
+Tags: git, tests
+
+The best thing to do when you want to be sure you always deliver something usable is to run tests.
+Sometimes, you may forget or fell lazy to run them. Git can do it for you. At every commit, tests are run.
+
+To do that, in your root git directory (top level git directoy), edit `.git/hooks/pre-commit.sample` with:
+
+  make -f <project_path>/makefile test
+  
+and rename it as `pre-commit`
+
+Day 3
+-----
+
+Tags: linux
+
+There is many command you run 50 times a day. Start your server, run your test, update your database...
+To make that easier to remember and more consistant, you can simply create a makefile.
+Here is a sample of what mine contains:
+
+  test:
+    python www/manage.py test --settings=settings_test
+    
+Then, whatever the environnement, the technology, etc... you always have the same commands to run similar action.
+
 Day 2
 -----
 Tags: vi
