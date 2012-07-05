@@ -5,6 +5,25 @@ Here is my tips list to make my life as a developer easier.
 Every day, I should learn a new tip.
 My subjects will likely be: python, django, git, vim, IDE, linux.
 
+Day 6
+-----
+Tags: shell
+
+There is many shell existing but we used to keep the default one. Most likely bash.
+I tried zsh and you get some really good benefits.
+Smart suggestions, spelling corrections, shared history, etc...
+More [here](http://www.zsh.org/)
+
+Day 5
+-----
+Tags: work
+
+Authors of 'peopleware' demonstrated than the most part of being productive is not due to technical knowledge but:
+- work environment
+- interruption handling
+
+Maybe a good starting point.
+
 Day 4
 -----
 
