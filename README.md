@@ -5,6 +5,14 @@ Here is my tips list to make my life as a developer easier.
 Every day, I should learn a new tip.
 My subjects will likely be: python, django, git, vim, IDE, linux.
 
+Day 7
+-----
+tags: linux
+
+Try another window manager. If like me, you are using unity or gnome, it may worth to give a try to a tiling window manager 
+like xmonad or awesome. That will allow you to have well defined environment and to put in place some new automation.
+
+
 Day 6
 -----
 Tags: shell
