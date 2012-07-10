@@ -5,6 +5,16 @@ Here is my tips list to make my life as a developer easier.
 Every day, I should learn a new tip.
 My subjects will likely be: python, django, git, vim, IDE, linux.
 
+Day 8
+-----
+tags: vi
+
+If like me you are a vim noob. Here is a good tip, you already have a tree explorer in vim.
+Just do:
+
+  :TExplore
+
+
 Day 7
 -----
 tags: linux
